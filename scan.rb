@@ -37,4 +37,6 @@ File.open(output_file, 'w') do |file|
   end
 end
 
+
+
 puts "Les adresses IP actives ont été sauvegardées dans #{output_file}."
